@@ -1,0 +1,12 @@
+spring.data.mongodb.uri: mongodb://resource-optimizer:resource-optimizer@localhost:27017/resource-optimizer
+#  datasource:
+#    url: jdbc:postgresql://localhost:5432/resource-optimizer
+#    username: postgres
+#    password: postgres
+#  jpa:
+#    show-sql: true
+#    generate-ddl: true
+#    open-in-view: false
+#    database-platform: com.vitrenko.resourceoptimizer.dialect.PostgreSQL95JsonbDialect
+#    properties.hibernate.jdbc.lob.non_contextual_creation: true
+#    hibernate.ddl-auto: create-drop
